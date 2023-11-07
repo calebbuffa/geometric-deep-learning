@@ -9,7 +9,7 @@ dependencies:
   - pytorch-cuda=11.7
   - laspy>= 2.0
   - nbformat>=4.2.0
-  - pytorch_lightning
+  - lightning
   - scipy
   - scikit-learn
   - ipykernel

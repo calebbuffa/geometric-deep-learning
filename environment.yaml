@@ -1,0 +1,16 @@
+name: gdl
+channels:
+  - conda-forge
+  - pytorch
+  - nvidia
+dependencies:
+  - python=3.10
+  - pytorch=2.0.1
+  - pytorch-cuda=11.7
+  - laspy>= 2.0
+  - nbformat>=4.2.0
+  - pytorch_lightning
+  - scipy
+  - scikit-learn
+  - ipykernel
+  - pip
